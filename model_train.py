@@ -1,4 +1,7 @@
 """Quick CLI script to train Fake News detector."""
+# Project: Fake News Detection
+# Author: Riddhima Paliwal
+# Year: 2025
 import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
